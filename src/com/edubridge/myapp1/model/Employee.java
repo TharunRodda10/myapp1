@@ -24,5 +24,11 @@ public class Employee {
 	public void setEmployeeId(int employeeId) {
 		this.employeeId = employeeId;
 	}
+	public String getEmployeeEmail() {
+		return employeeEmail;
+	}
+	public void setEmployeeEmail(String employeeEmail) {
+		this.employeeEmail = employeeEmail;
+	}
 	
 }
