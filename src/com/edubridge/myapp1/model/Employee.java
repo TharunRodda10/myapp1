@@ -31,5 +31,11 @@ public class Employee {
 	public void setEmployeeEmail(String employeeEmail) {
 		this.employeeEmail = employeeEmail;
 	}
+	public Long getEmployeemobile() {
+		return employeemobile;
+	}
+	public void setEmployeemobile(Long employeemobile) {
+		this.employeemobile = employeemobile;
+	}
 	
 }
